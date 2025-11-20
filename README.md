@@ -1,6 +1,8 @@
 # snapper-TUI (Go Edition)
 
-A high-performance terminal user interface (TUI) for managing Btrfs **snapper** snapshots, built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) in Go. Browse, sort, filter, restore, and delete snapshots with an intuitive, responsive layout inspired by the Python Textual version.
+A high-performance terminal user interface (TUI) for managing Btrfs **snapper** snapshots, built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) in Go.   
+
+Browse, sort, filter, restore, and delete snapshots with an intuitive, responsive layout inspired by my own Python Textual version.
 
 ## Demo
 
