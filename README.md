@@ -119,7 +119,6 @@ snapper-TUI-go/
 ├── background.go       # Background image support and color utilities
 ├── go.mod / go.sum     # Go module dependencies (Bubble Tea, Lip Gloss, Imaging)
 ├── README.md           # Documentation (this file)
-├── AILog.md            # Development progress and findings
 └── LICENSE             # MIT License
 ```
 
@@ -134,4 +133,4 @@ The application is structured using clean separation of concerns:
 
 ## License
 
-[MIT](LICENSE)
+Provided as-is under [MIT](LICENSE)
